@@ -1,0 +1,92 @@
+body {
+	font-family: MyriadProRegular;
+}
+.container {
+	background-color: #fff;
+}
+.container h1 {
+	text-align: center;
+	font-size: 18px;
+}
+.green {
+	width: 1286px;
+    height: 700px;
+    background-color: #22B573;
+    margin: 10px auto 30px auto;
+    border-style: solid;
+    border-color: #006837;
+    border-width: 4px;
+}
+.overflow {
+	overflow: auto;
+}
+
+.navli {
+margin: 50px 260px auto;
+}
+.nava {
+color: #fff;
+font-size: 48px;
+text-decoration: none;
+float: left;
+margin-left: 45px;
+margin-left: 45px;
+text-transform: uppercase;
+}
+.img1 {
+width: 200px;
+margin-right: 20px;
+float: right;
+}
+.yellow1 {
+width: 617px;
+height: 356px;
+background-color: #FCEE21;
+float: left;
+margin-top: 60px;
+margin-left: 70px;
+overflow: auto;
+}
+.yellow2 {
+width: 523px;
+height: 356px;
+background-color: #FCEE21;
+float: right;
+margin-top: 60px;
+margin-right: 50px;
+overflow: auto;
+}
+.yellow1img {
+width: 150px;
+float: right;
+margin: 25px;
+}
+.firstText1 {
+font-size: 14px;
+color: #000000;
+text-transform: uppercase;
+padding: 25px 0 0 25px;
+}
+.firstText2 {
+font-size: 14px;
+color: #000000;
+text-transform: uppercase;
+padding: 25px 25px 0 25px;
+}
+.yellow2img {
+width: 150px;
+float: left;
+padding: 35px 20px 20px 25px;
+}
+.secondText1 {
+font-size: 14px;
+color: #006837;
+text-transform: uppercase;
+padding: 23px 40px 0 25px;
+}
+.secondText2 {
+font-size: 14px;
+color: #006837;
+text-transform: uppercase;
+padding: 18px 23px 20px 25px;
+}
